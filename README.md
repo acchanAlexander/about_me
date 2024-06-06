@@ -6,3 +6,4 @@ https://github.com/acchanAlexander/about_me/blob/main/strength_finder/2021_06_12
 
 # MBTI
 ## 2024/6/6
+https://github.com/acchanAlexander/about_me/blob/main/MBTI/16personalities/20240606.md
