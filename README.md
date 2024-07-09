@@ -36,7 +36,7 @@
 詳細な職務経歴については[こちら](https://github.com/acchanAlexander/about_me/blob/main/curriculum_vitae.md)をご確認ください
 
 # スキルセット
-詳細なスキルセットについては[こちら]()をご確認ください
+詳細なスキルセットについては[こちら](https://github.com/acchanAlexander/about_me/blob/main/skill_set.md)をご確認ください
 
 # 学歴
 
