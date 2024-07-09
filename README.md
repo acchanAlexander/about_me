@@ -5,7 +5,7 @@
 | 生年月日 | 1990年11月 |
 | 趣味 | ロードバイク/登山/ガーデニング |
 | Strength Finder | [親密性/学習欲/目標志向/規律性/着想](https://github.com/acchanAlexander/about_me/blob/main/strength_finder/2021_06_12.pdf) |
-| MBTI(16 Personalities) | [ENTJ](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
+| MBTI (16 Personalities) | [ENTJ](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
 
 # SNS
 - [X(旧Twitter)](https://x.com/achan_twit)
