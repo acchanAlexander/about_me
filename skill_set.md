@@ -21,3 +21,10 @@
 | Symfony | 3年 |
 | Shopify（コードを編集してカスタマイズ） | 1年 |
 
+# DB別
+| 名称 | 経験年数 |
+| --- | --- |
+| MySQL | 9年 |
+| DynamoDB | 4年 |
+| Redis | 3年 |
+| Oracle | 3年 |
