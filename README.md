@@ -39,7 +39,8 @@
 詳細なスキルセットについては[こちら](https://github.com/acchanAlexander/about_me/blob/main/skill_set.md)をご確認ください
 
 # 大事にしていることなど
-[事業貢献への考え方やスタンス](https://github.com/acchanAlexander/about_me/blob/main/thoughts_and_stance_on_business_contribution.md)
+- [事業貢献への考え方やスタンス](https://github.com/acchanAlexander/about_me/blob/main/thoughts_and_stance_on_business_contribution.md)
+- [大事にしていること・得意なこと・まだ苦手なこと](https://github.com/acchanAlexander/about_me/blob/main/personal_beliefs_and_principles.md)
 
 # 学歴
 
