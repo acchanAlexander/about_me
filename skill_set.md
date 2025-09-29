@@ -34,6 +34,7 @@
 | Rspec | 3年 |
 | Webpack | 3年 |
 | Docker | 3年 |
+| Stimulus | 2年 |
 | aspida | 1年 |
 | Prisma | 1年 |
 
