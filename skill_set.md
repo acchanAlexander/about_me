@@ -9,20 +9,6 @@
 | Kotlin | 1年 |
 | CSS | 7年 |
 
-## 他、プラグインやモジュールや開発環境等
-| 名称 | 経験年数 |
-| --- | --- |
-| Blade | 5年 |
-| Twig | 5年 |
-| SCSS | 4年 |
-| TailwindCSS | 3年 |
-| PHPUnit | 3年 |
-| Rspec | 3年 |
-| Webpack | 3年 |
-| Docker | 3年 |
-| aspida | 1年 |
-| Prisma | 1年 |
-
 # Webアプリケーションフレームワーク別
 兼務有
 | 名称 | 経験年数 |
@@ -36,6 +22,20 @@
 | Express | 1年 |
 | NestJS | 1年 |
 | Shopify（コードを編集してカスタマイズ） | 1年 |
+
+## 他、プラグインや開発環境等
+| 名称 | 経験年数 |
+| --- | --- |
+| Blade | 5年 |
+| Twig | 5年 |
+| SCSS | 4年 |
+| TailwindCSS | 3年 |
+| PHPUnit | 3年 |
+| Rspec | 3年 |
+| Webpack | 3年 |
+| Docker | 3年 |
+| aspida | 1年 |
+| Prisma | 1年 |
 
 # DBやKVS別
 | 名称 | 経験年数 |
