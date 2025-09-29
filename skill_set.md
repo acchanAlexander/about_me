@@ -1,35 +1,42 @@
 # プログラミング言語別
 | 名称 | 経験年数 |
 | --- | --- |
-| HTML | 11年 |
-| CSS | 11年 |
-| PHP | 10年 |
-| JavaScript（jQuery） | 10年 |
-| Blade | 5年 |
-| Twig | 5年 |
+| PHP | 11年 |
+| JavaScript | 12年 |
 | Node.js | 4年 |
-| SCSS | 4年 |
 | Ruby | 3年 |
 | React | 1年 |
 | Kotlin | 1年 |
+| CSS | 7年 |
 
-# Webアプリケーションフレームワーク別
+## 他、プラグインやモジュールや開発環境等
 | 名称 | 経験年数 |
 | --- | --- |
-| Laravel | 5年 |
-| Wordpress | 5年 |
-| Laravel-admin | 4年 |
-| Sinatora | 3年 |
+| Blade | 5年 |
+| Twig | 5年 |
+| SCSS | 4年 |
+
+# Webアプリケーションフレームワーク別
+兼務有
+| 名称 | 経験年数 |
+| --- | --- |
+| Laravel | 7年 |
+| Wordpress（コードを編集してカスタマイズ） | 5年 |
 | Symfony | 3年 |
+| Laravel-admin | 4年 |
+| Sinatora | 2年 |
+| Ruby on Rails | 1年 |
+| NestJS | 1年 |
 | Shopify（コードを編集してカスタマイズ） | 1年 |
 
-# DB別
+# DBやKVS別
 | 名称 | 経験年数 |
 | --- | --- |
 | MySQL | 9年 |
 | DynamoDB | 4年 |
 | Redis | 3年 |
 | Oracle | 3年 |
+| PostgreSQL | 1年 |
 
 # ミドルウェア別
 | 名称 | 経験年数 |
@@ -46,13 +53,12 @@
 兼務有
 | 名称 | 経験年数 |
 | --- | --- |
-| サーバサイドエンジニア | 10年 |
+| サーバサイドエンジニア | 11年 |
 | フロントエンドエンジニア | 2年 |
-| PM | 5年 |
-| PL | 5年 |
+| PjM | 7年 |
+| PL | 9年 |
 | PdM | 5年 |
-| EM | 4年 |
-| ディレクター | 4年 |
+| EM | 5年 |
 | マーケター | 4年 |
 | RPAエンジニア | 2年 |
 | CTO | 1年 |
