@@ -15,6 +15,13 @@
 | Blade | 5年 |
 | Twig | 5年 |
 | SCSS | 4年 |
+| TailwindCSS | 3年 |
+| PHPUnit | 3年 |
+| Rspec | 3年 |
+| Webpack | 3年 |
+| Docker | 3年 |
+| aspida | 1年 |
+| Prisma | 1年 |
 
 # Webアプリケーションフレームワーク別
 兼務有
@@ -26,6 +33,7 @@
 | Laravel-admin | 4年 |
 | Sinatora | 2年 |
 | Ruby on Rails | 1年 |
+| Express | 1年 |
 | NestJS | 1年 |
 | Shopify（コードを編集してカスタマイズ） | 1年 |
 
@@ -63,4 +71,14 @@
 | RPAエンジニア | 2年 |
 | CTO | 1年 |
 
+# 業務ツール
+- Slack
+- Chatwork
+- Jira
+- Confluence
+- Backlog
+- Trello
+- GoogleWorkspace
+- Redmine
+- GoogleAnalytics
 
