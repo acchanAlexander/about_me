@@ -2,15 +2,15 @@
 
 | 項目 | 内容 |
 | --- | --- |
-| 生年月日 | 1990年11月 <br> (2024年7月現在33歳) |
+| 生年月日 | 1990年11月 <br> (2025年9月現在34歳) |
 | 趣味 | ロードバイク/登山/ガーデニング |
 | Strength Finder | [親密性/学習欲/目標志向/規律性/着想](https://github.com/acchanAlexander/about_me/blob/main/strength_finder/2021_06_12.pdf) |
 | MBTI (16 Personalities) | [ENTJ](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
 
 # SNS
-- [X(旧Twitter)](https://x.com/achan_twit)
 - [bluesky](https://bsky.app/profile/acchan.bsky.social)
 - [connpass](https://connpass.com/user/Yoshihiro_Atari/)
+- X(旧Twitter)はblueskyに移行したためほぼやっていない
 
 # アウトプット
 - [SpeakerDeck](https://speakerdeck.com/acchanalexander)
@@ -30,7 +30,7 @@
 | --- | --- | --- |
 | 2014年04月 - 2022年10月 | [株式会社LIFULL](https://lifull.com/) | エンジニア(フロントエンド / サーバーサイド) 、事業開発（戦略 / 企画 / 開発 / デザイン / 分析） |
 | 2022年11月 - 2023年06月 | [株式会社ワールドリード](https://worldlead.jp/) | CTO (戦略 / 企画 / 新規事業開発 / 分析 / システム開発 / 外部ベンダー管理 / 情報システム管理 / 採用 / 社員育成 / 組織形成 / 営業) |
-| 2023年07月 - 現在 | フリーランス | バックエンドエンジニア / PM / テックリード  |
+| 2023年07月 - 現在 | フリーランス | バックエンドエンジニア / PM / テックリード / 社員育成 |
 
 ## 職務経歴（詳細）
 詳細な職務経歴については[こちら](https://github.com/acchanAlexander/about_me/blob/main/curriculum_vitae.md)をご確認ください
