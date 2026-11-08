@@ -5,7 +5,7 @@
 | 生年月日 | 1990年11月 <br> (2025年9月現在34歳) |
 | 趣味 | ロードバイク/登山/ガーデニング |
 | Strength Finder | [親密性/学習欲/目標志向/規律性/着想](https://github.com/acchanAlexander/about_me/blob/main/strength_finder/2021_06_12.pdf) |
-| CUBIC適性検査 | [適性検査結果](https://github.com/acchanAlexander/about_me/blob/main/cubic_aptitude_test.md) |
+| CUBIC適性検査 | [CUBIC適性検査結果サマリー](https://github.com/acchanAlexander/about_me/blob/main/cubic_aptitude_test.md) |
 | MBTI (16 Personalities) | [ENTJ](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
 
 # SNS
